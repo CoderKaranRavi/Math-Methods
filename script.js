@@ -1,4 +1,5 @@
-=>Math.floor (It takes base values and if it is negative value then it takes next nearest integer)
+*/=>Math.floor (It takes base values and if it is negative value then it takes next nearest integer)*/
+
 console.log(Math.floor(5.9));//5
 console.log(Math.floor(-4.9));//-5
 =>Math.ceil
